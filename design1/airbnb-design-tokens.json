@@ -1,0 +1,71 @@
+{
+  "colors": {
+    "text": {
+      "primary": "#222222",
+      "secondary": "#717171",
+      "disabled": "#AAAAAA",
+      "destructive": "#8F2A14",
+      "inverse": "#FFFFFF"
+    },
+    "background": {
+      "primary": "#FFFFFF",
+      "buttonPrimaryGradientStart": "#D03660",
+      "buttonPrimaryGradientEnd": "#D73B53",
+      "buttonTertiary": "#222222",
+      "disabled": "#DDDDDD"
+    },
+    "border": {
+      "primary": "#222222"
+    },
+    "brand": {
+      "gradientPink": {
+        "start": "#D03660",
+        "end": "#D73B53"
+      },
+      "gradientPurple": {
+        "start": "#600F97",
+        "end": "#A22085"
+      }
+    }
+  },
+  "typography": {
+    "sheetTitle": {
+      "fontSize": 32,
+      "lineHeight": 36
+    },
+    "sectionHeader": {
+      "fontSize": 23,
+      "lineHeight": 20
+    },
+    "body1": {
+      "fontSize": 16,
+      "lineHeight": 23
+    },
+    "body2": {
+      "fontSize": 14,
+      "lineHeight": 18
+    },
+    "button": {
+      "fontSize": 14,
+      "lineHeight": 18
+    }
+  },
+  "spacing": {
+    "xs": 8,
+    "sm": 16,
+    "base": 24,
+    "lg": 48,
+    "xl": 64
+  },
+  "contrast": {
+    "textPrimary": 15.9,
+    "textSecondary": 4.88,
+    "textDisabled": 2.32,
+    "textDestructive": 8.36,
+    "backgroundPrimary": 21,
+    "buttonPrimaryGradientStart": 4.79,
+    "buttonPrimaryGradientEnd": 4.52,
+    "buttonTertiary": 15.9,
+    "backgroundDisabled": 1.35
+  }
+}

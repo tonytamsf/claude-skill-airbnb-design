@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Build outputs (if applicable in the future)
+build/
+dist/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node modules (if web examples are added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Flutter/Dart (if examples are added)
+.dart_tool/
+.packages
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Documentation build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
